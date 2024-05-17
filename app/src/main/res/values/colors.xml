@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Colores -->
+    <color name="greyF">#4e4e4e</color>
+    <color name="greyM">#a2a2a2</color>
+    <color name="greyC">#d0d0d0</color>
+
+    <color name="greyNS">#80777777</color>
+
+    <color name="intelligence">#24F82D</color>
+    <color name="strength">#F3070F</color>
+    <color name="speed">#FF9800</color>
+    <color name="durability">#01A6FF</color>
+    <color name="power">#FFEB3B</color>
+    <color name="combat">#CE10EF</color>
+
+</resources>

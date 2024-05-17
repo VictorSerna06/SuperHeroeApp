@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SuperHeroe</string>
+    <string name="superApp">SuperApp</string>
+    <string name="intelligence">Inteligencia</string>
+    <string name="strength">Fuerza</string>
+    <string name="speed">Velocidad</string>
+    <string name="durability">Durabilidad</string>
+    <string name="power">Poder</string>
+    <string name="combat">Combate</string>
+    <string name="volverBuscar">Bucar Super Heroe</string>
+    <string name="mensajeError">¡Ha ocurrido un problema!</string>
+</resources>
